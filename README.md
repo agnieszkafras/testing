@@ -1,4 +1,4 @@
-# Useful tools and websites for testing
+# Useful tools and websites for testing and learning
 
 * [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com) - free fake API for testing
 * [http://www.automationpractice.pl](http://www.automationpractice.pl) - website for testing
