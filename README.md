@@ -6,6 +6,7 @@
 * [https://emmet.io](https://emmet.io) - a plugin for text editors which improves HTML and CSS workflow
 * [https://getbootstrap.com](https://getbootstrap.com) - an HTML, CSS and JavaScript library
 * [https://roadmap.sh/qa](https://roadmap.sh/qa) - guide to becoming a QA engineer
+* [https://codebeautify.org/Xpath-Tester](https://codebeautify.org/Xpath-Tester) - allows you to test your XPath expressions against an XML document
 
 ### Games for learning
 
