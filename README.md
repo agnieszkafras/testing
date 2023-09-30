@@ -12,4 +12,5 @@
 
 * [https://flexboxfroggy.com](https://flexboxfroggy.com) - learning CSS Flexbox
 * [https://cssgridgarden.com](https://cssgridgarden.com) - learning CSS Grid
+* [https://flukeout.github.io/](https://flukeout.github.io/) - learning CSS Selectors
 * [https://lost-at-sql.therobinlord.com](https://lost-at-sql.therobinlord.com) - The SQL learning game
