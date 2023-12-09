@@ -7,6 +7,7 @@
 * [https://getbootstrap.com](https://getbootstrap.com) - an HTML, CSS and JavaScript library
 * [https://roadmap.sh/qa](https://roadmap.sh/qa) - guide to becoming a QA engineer
 * [https://codebeautify.org/Xpath-Tester](https://codebeautify.org/Xpath-Tester) - allows you to test your XPath expressions against an XML document
+* [https://the-internet.herokuapp.com](https://the-internet.herokuapp.com) - website to practice automation testing
 
 ### Games for learning
 
